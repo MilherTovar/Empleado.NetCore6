@@ -1,0 +1,30 @@
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Repository.deps.json
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Repository.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Repository.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.csproj.AssemblyReference.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.AssemblyInfoInputs.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.AssemblyInfo.cs
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.csproj.CoreCompileInputs.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.csproj.CopyComplete
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\refint\EmpleadoApiRest.Repository.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\ref\EmpleadoApiRest.Repository.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Repository.deps.json
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Repository.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Repository.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.csproj.AssemblyReference.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.AssemblyInfoInputs.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.AssemblyInfo.cs
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.csproj.CoreCompileInputs.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.csproj.CopyComplete
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\refint\EmpleadoApiRest.Repository.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\EmpleadoApiRest.Repository.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Repository\obj\Debug\net6.0\ref\EmpleadoApiRest.Repository.dll

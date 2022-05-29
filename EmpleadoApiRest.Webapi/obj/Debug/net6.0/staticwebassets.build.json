@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g+oN4MOosfsNCHhQAUS4S2hyQLkG+5AcIE6OwZDbVZI=",
+  "Source": "EmpleadoApiRest.Webapi",
+  "BasePath": "_content/EmpleadoApiRest.Webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
