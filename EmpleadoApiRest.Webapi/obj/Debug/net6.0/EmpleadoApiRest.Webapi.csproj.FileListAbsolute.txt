@@ -1,0 +1,152 @@
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\appsettings.json
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.exe
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.deps.json
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.runtimeconfig.json
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.csproj.AssemblyReference.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.AssemblyInfoInputs.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.AssemblyInfo.cs
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\scopedcss\bundle\EmpleadoApiRest.Webapi.styles.css
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.csproj.CopyComplete
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\refint\EmpleadoApiRest.Webapi.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.genruntimeconfig.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\ref\EmpleadoApiRest.Webapi.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Application.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Application.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Repository.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Repository.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Entities.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Entities.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\appsettings.json
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.exe
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.deps.json
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.runtimeconfig.json
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Webapi.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Application.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Entities.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Repository.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Application.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Entities.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Repository.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.csproj.AssemblyReference.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.AssemblyInfoInputs.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.AssemblyInfo.cs
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.csproj.CoreCompileInputs.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\scopedcss\bundle\EmpleadoApiRest.Webapi.styles.css
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.csproj.CopyComplete
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\refint\EmpleadoApiRest.Webapi.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\EmpleadoApiRest.Webapi.genruntimeconfig.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\obj\Debug\net6.0\ref\EmpleadoApiRest.Webapi.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Services.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.Webapi\bin\Debug\net6.0\EmpleadoApiRest.Services.pdb

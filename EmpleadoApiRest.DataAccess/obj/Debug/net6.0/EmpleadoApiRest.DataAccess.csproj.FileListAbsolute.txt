@@ -1,0 +1,34 @@
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.deps.json
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.Entities.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.Entities.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.csproj.AssemblyReference.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.AssemblyInfo.cs
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.csproj.CopyComplete
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\refint\EmpleadoApiRest.DataAccess.dll
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.pdb
+C:\Users\milher.tovar\OneDrive - Universidad de los Andes\Compello\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\ref\EmpleadoApiRest.DataAccess.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.deps.json
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.DataAccess.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.Entities.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.Abstractions.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\bin\Debug\net6.0\EmpleadoApiRest.Entities.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.csproj.AssemblyReference.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.AssemblyInfoInputs.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.AssemblyInfo.cs
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.csproj.CopyComplete
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\refint\EmpleadoApiRest.DataAccess.dll
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\EmpleadoApiRest.DataAccess.pdb
+C:\Users\milher.tovar\Desktop\EmpleadoApiRest\EmpleadoApiRest.DataAccess\obj\Debug\net6.0\ref\EmpleadoApiRest.DataAccess.dll
